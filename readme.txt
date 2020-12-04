@@ -6,7 +6,7 @@ cat "文件名"   //查看文件内容
 git branch "分支名"  //创建分支
 git checkout "分支名"  //切换分支
 git merge "分支名"  //在当前分支上合并分支
-push origin master  //上传到github仓库
+push origin "当前分支名"//上传到github仓库
 
 //非常用命令//
 pwd   //显示当前目录
